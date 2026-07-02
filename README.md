@@ -37,7 +37,7 @@
 ## Usage
 
 1. Download the flavor of your choice from [themes](themes).
-2. Then, depending on which theme you would like to use, add `source path/to/catppuccin_<flavor>.nu` to your config (replace `path/to` with the actual path to the downloaded file and replace `<flavor>` with the flavor you chose)
+2. Add `source path/to/catppuccin_<flavor>.nu` to your config (replace `path/to` with the actual path to the downloaded file and replace `<flavor>` with the flavor you chose)
 
 ## Building the themes
 
